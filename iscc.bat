@@ -1,0 +1,1 @@
+cd H:/Inno Setup 5 & H: & iscc F:/InnoSetup/smart-light.iss
